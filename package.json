@@ -1,0 +1,19 @@
+{
+  "name": “hello world”,
+  "version": "1.0.0",
+  "description": "My first Nodejs and MongoDB project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AndreaHuang/nodejs.git"
+  },
+  "dependencies": {
+    "mongodb": "~2.6”
+  },
+  "author": “Andrea Huang”,
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/christkv/myfirstproject/issues"
+  },
+  "homepage": "https://github.com/christkv/myfirstproject"
+}
